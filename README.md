@@ -5,7 +5,7 @@
 ┌─[rithish@cyberspace]─[~/profile]
 └──╼ whoami
                   ╔══════════════════════════════════════════════════════════════╗
-                  ║  NAME         │ Rithish Kumar V                               ║
+                  ║  NAME         │ Rithish Kumar V                              ║
                   ║  DESIGNATION  │ CS Student & Tech Innovator                  ║
                   ║  LOCATION     │ Coimbatore, Tamil Nadu [ENCRYPTED]           ║
                   ║  INSTITUTE    │ Coimbatore Institute of Technology           ║
@@ -38,7 +38,5 @@
 
 ### Specialized Areas
 ![Artificial Intelligence](https://img.shields.io/badge/AI-4285F4?style=for-the-badge&logo=brain&logoColor=white)
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-000000?style=for-the-badge&logo=hackaday&logoColor=white)
-![Blockchain](https://img.shields.io/badge/Blockchain-F7931E?style=for-the-badge&logo=bitcoin&logoColor=white)
 
 </div>
